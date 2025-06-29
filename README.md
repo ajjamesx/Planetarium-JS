@@ -22,5 +22,5 @@ This project uses canvas-based rendering — no dependencies, no WebGL!
 # From your project directory:
 python -m http.server
 
-Then open in your browser:
+# Then open in your browser:
 http://localhost:8000/index.html
