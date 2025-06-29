@@ -2,8 +2,6 @@
 
 A rotating, texture-mapped 3D Earth built entirely with 2D HTML Canvas and JavaScript — featuring dynamic lighting, atmospheric glow, and twinkling stars.
 
-![screenshot](preview.png)
-
 ## 🚀 Features
 
 - Texture-mapped spherical mesh (Earth)
